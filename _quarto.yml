@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Isabella Guzman"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: experience.qmd
+        text: Education & Experience
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/isabella-guzman-a6a513295
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:iig4@case.edu
+        aria-label: Email
+  page-footer: "© 2026 Isabella Guzman · Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

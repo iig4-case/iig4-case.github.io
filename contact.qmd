@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+I'd love to hear from you. The best ways to reach me:
+
+- **Email:** [iig4@case.edu](mailto:iig4@case.edu)
+- **LinkedIn:** [Isabella Guzman](https://www.linkedin.com/in/isabella-guzman-a6a513295)
+
+<!-- Phone is hidden on purpose because this site is public.
+To show it, remove the two comment markers around the line below.
+- **Phone:** 312-722-2628
+-->
+
+[Download my CV](Isabella_Guzman_CV.docx){.btn .btn-primary}
